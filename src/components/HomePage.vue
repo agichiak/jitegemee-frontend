@@ -33,14 +33,14 @@
         subtitle="A"
         text="B"
         title="C"
-        color = "grey"
+        color = "blue"
       ></v-card>
 
      
     </v-col>
 
     <v-col cols="12" md="4">
-      <v-card color = "grey">
+      <v-card color = "blue">
         <template v-slot:title>
           All are welcome for the school graduation on 27/6/2025
         </template>
@@ -58,7 +58,7 @@
     </v-col>
 
     <v-col cols="12" md="4">
-      <v-card color = "grey">
+      <v-card color = "blue">
         <v-card-item>
           <v-card-title>1</v-card-title>
 
